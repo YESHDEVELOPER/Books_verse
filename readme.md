@@ -30,8 +30,9 @@ book-verse/
 
 
 ### 📸 Screenshot  
-*(Optional: Include a screenshot of your project)*  
-![Preview](https://images.unsplash.com/photo-1532012197267-da84d127e765)
+![Screenshot 2025-03-21 173339](https://github.com/user-attachments/assets/81eabba4-3775-41c7-9c0a-de75f08fb0dc)
+![Screenshot 2025-03-21 173141](https://github.com/user-attachments/assets/84f902ef-3de7-48ab-b808-95b690864cd7)
+
 
 
 
